@@ -6,7 +6,7 @@
 # facebookID   #likes  twitterAccount   website1;website2
 # 133130832352	3062	4am_rock	www.twitter.com/4am_rock;www.myspace.com/04am;itunes.apple.com/us/album/light-from-light/id362464568;www.youtube.com/4am100
 
-# twitterAccount: if the Twotter account is not found,  twitterAccount is 0 
+# twitterAccount: if the Twotter account is not found,  twitterAccount is 0
 
 import urllib2
 import urllib
