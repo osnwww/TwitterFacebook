@@ -8,7 +8,7 @@
 # 104967519	252	0	        www.caorda.com	                caorda
 # 30693817	488	cookiemodel	facebook.com/cookiemodel	cookiemodel
 
-# facebookAccount: if the Facebook account is not found,  facebookAccount is 0 
+# facebookAccount: if the Facebook account is not found,  facebookAccount is 0
 
 import urllib2
 import urllib
