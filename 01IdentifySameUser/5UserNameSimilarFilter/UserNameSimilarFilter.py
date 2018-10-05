@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # filter users whose similarity of names in Twitter and Facebook is below 0.8
 
-# inFile: BothFacebookTwitterAllUpdate
+# inFile: BothFacebookTwitterAllUpdate 
 # twitterID   #followr  FacebookID     #likes    howMatchUserID                   twitterName    TwitterUrl             facebookName      facebookUrl
 # 126830575	443	127122857320666	998	FacebookFromTwitterProfiles	AGNewHaven	https://t.co/AOwdu58GIv	 agnewhaven	http://www.agnewhaven.com
 # 70598975	1929	11553867053	5557	FacebookFromTwitterProfiles	LavishandLime	http://t.co/FnESasWZhK	lavishandlime	URL: http://www.lavishandlime.com Twitter: http://twitter.com/LavishandLime Pinterest: http://pinterest.com/lavishandlime Blog: http://lavishandlime.blogspot.ca/
