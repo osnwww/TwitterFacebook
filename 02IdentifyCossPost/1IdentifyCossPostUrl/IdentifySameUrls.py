@@ -3,7 +3,7 @@
 # the output (userSameUrlCount) is useless.
 
 # Problem when comparing two long URLs are the same.
-# for Twitter ID 17229160, whose facebook ID is 63830851925
+# for Twitter ID 17229160, whose facebook ID is 63830851925 
 # URL in Twitter is: http://www.elconfidencial.com/mundo/2016-03-25/identifican-a-una-espanola-entre-las-victimas-de-los-atentados-de-bruselas_1174381/?utm_source=dlvr.it&utm_medium=twitter
 # Url in Facebook  : http://www.elconfidencial.com/mundo/2016-03-25/identifican-a-una-espanola-entre-las-victimas-de-los-atentados-de-bruselas_1174381/
 # although it is the same webpages, but the URL is different.
