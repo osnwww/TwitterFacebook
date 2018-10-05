@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #clean text for IdentifySameText.py, because this step is slow
-# remove URL, non-English......
+# remove URL, non-English...... 
 
 # input1: FormatTwitterTweets:
 #    userID       TweetID            #RT #favorite #comment    date         isRT isRep      expandURL    #mentions #hashtage   text
