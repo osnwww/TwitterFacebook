@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# input1: IdentifyCossPostText    
+# input1: IdentifyCossPostText   
 # twUserID	twTweetID	fbUserID	fbFeedID  urlOrderNum #twRT #twFavorite	#twComment #fbReshare #fbLikes #fbComment timeDifference  twitterName facebookName 
 # 19019298	7.14543E+17	37791069588	1.01541E+16	13	1	1	    0	        0	0	0	    -4	        IAmBiotech	IAmBiotech
 # 13877002	7.15385E+17	72139486384	1.01541E+16	1	2	4	    0	        1	7	2	    -583	clarionledger	clarionledger
