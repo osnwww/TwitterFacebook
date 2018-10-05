@@ -14,7 +14,7 @@
 # 133130832352	3062	4am_rock	www.twitter.com/4am_rock;www.myspace.com/04am;itunes.apple.com/us/album/light-from-light/id362464568;www.youtube.com/4am100
 #    0           1        2               3
 
-# output: findBothFacebookTwitter
+# output: findBothFacebookTwitter 
 # twitterID   #followr FacebookID     #likes    Url                         
 # 40053156	28	rwilderjr	0	www.facebook.com/rwilderjr
 # 30693817	488	cookiemodel	0	facebook.com/cookiemodel
