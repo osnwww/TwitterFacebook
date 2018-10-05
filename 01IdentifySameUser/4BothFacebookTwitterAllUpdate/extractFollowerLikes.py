@@ -2,7 +2,7 @@
 # update the #follower and #likes in findBothFacebookTwitterAll from the twitter profiles and facebook profiles
 
 # inFile: findBothFacebookTwitterAll
-# twitterID   #followr FacebookID     #likes    Url                         
+# twitterID   #followr FacebookID     #likes    Url                   
 # 40053156	28	rwilderjr	0	www.facebook.com/rwilderjr
 # 30693817	488	cookiemodel	0	facebook.com/cookiemodel
 
